@@ -5,7 +5,7 @@ It's repository for code from article
 
 ## Docker
 
-To build
+To build .  
 
     npm run docker:build
     
