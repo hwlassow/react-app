@@ -13,7 +13,7 @@ To run
 
     npm run docker:run
     
-To stop
+To stop .  
 
     docker:stop
   
